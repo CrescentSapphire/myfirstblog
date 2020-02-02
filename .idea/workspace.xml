@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f355076b-880a-4a57-b027-390730509392" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1WV74mWBNpqOypkai27Dn7UeoiN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f355076b-880a-4a57-b027-390730509392" name="Default Changelist" comment="" />
+      <created>1579222719075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579222719075</updated>
+    </task>
+    <task id="LOCAL-00001" summary="deploy page">
+      <created>1580604260781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580604260781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deploy page" />
+    <option name="LAST_COMMIT_MESSAGE" value="deploy page" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580604199674">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1580604199674" />
+    <state x="806" y="13" key="CommitChangelistDialog2" timestamp="1580604259938">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="806" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580604259938" />
+    <state x="830" y="108" width="638" height="487" key="FileChooserDialogImpl" timestamp="1580603642782">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="830" y="108" width="638" height="487" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1580603642782" />
+    <state x="622" y="69" width="914" height="725" key="SettingsEditor" timestamp="1580603673350">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="622" y="69" width="914" height="725" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580603673350" />
+  </component>
+</project>
