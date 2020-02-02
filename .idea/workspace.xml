@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f355076b-880a-4a57-b027-390730509392" name="Default Changelist" comment="" />
+    <list default="true" id="f355076b-880a-4a57-b027-390730509392" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,22 +64,30 @@
       <option name="project" value="LOCAL" />
       <updated>1580604260781</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update">
+      <created>1580604685315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580604685315</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deploy page" />
-    <option name="LAST_COMMIT_MESSAGE" value="deploy page" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580604199674">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1580604199674" />
-    <state x="806" y="13" key="CommitChangelistDialog2" timestamp="1580604259938">
+    <state x="806" y="13" key="CommitChangelistDialog2" timestamp="1580604664505">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="806" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580604259938" />
+    <state x="806" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580604664505" />
     <state x="830" y="108" width="638" height="487" key="FileChooserDialogImpl" timestamp="1580603642782">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
