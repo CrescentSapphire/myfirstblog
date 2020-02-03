@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f355076b-880a-4a57-b027-390730509392" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blog/static/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/static/css/blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/static/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +36,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog/templates/blog" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\carol\PycharmProjects\DTS" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\carol\PycharmProjects\DTS\blog\templates\blog" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -93,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580698221172</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="color change">
+      <created>1580700938113</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580700938113</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -102,17 +121,18 @@
     <MESSAGE value="Url" />
     <MESSAGE value="first html page" />
     <MESSAGE value="final deploy" />
-    <option name="LAST_COMMIT_MESSAGE" value="final deploy" />
+    <MESSAGE value="color change" />
+    <option name="LAST_COMMIT_MESSAGE" value="color change" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580604199674">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1580604199674" />
-    <state x="806" y="13" key="CommitChangelistDialog2" timestamp="1580698220569">
+    <state x="806" y="13" key="CommitChangelistDialog2" timestamp="1580700937655">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="806" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580698220569" />
+    <state x="806" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580700937655" />
     <state x="830" y="108" width="638" height="487" key="FileChooserDialogImpl" timestamp="1580603642782">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -125,5 +145,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="949" y="108" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1580619988508" />
+    <state x="847" y="15" width="609" height="804" key="find.popup" timestamp="1580702985107">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="847" y="15" width="609" height="804" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1580702985107" />
   </component>
 </project>
