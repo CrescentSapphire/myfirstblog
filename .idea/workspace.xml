@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f355076b-880a-4a57-b027-390730509392" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/carol.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/css/blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post_edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="f355076b-880a-4a57-b027-390730509392" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,17 +92,18 @@
     <MESSAGE value="Update" />
     <MESSAGE value="Url" />
     <MESSAGE value="first html page" />
-    <option name="LAST_COMMIT_MESSAGE" value="first html page" />
+    <MESSAGE value="final deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="final deploy" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580604199674">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1580604199674" />
-    <state x="806" y="13" key="CommitChangelistDialog2" timestamp="1580608065499">
+    <state x="806" y="13" key="CommitChangelistDialog2" timestamp="1580697646071">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="806" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580608065499" />
+    <state x="806" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580697646071" />
     <state x="830" y="108" width="638" height="487" key="FileChooserDialogImpl" timestamp="1580603642782">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
