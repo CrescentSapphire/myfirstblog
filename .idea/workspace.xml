@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f355076b-880a-4a57-b027-390730509392" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/polls/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580708205043</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="step 2">
+      <created>1581982591221</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581982591222</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,7 +183,8 @@
     <MESSAGE value="color change" />
     <MESSAGE value="css fix" />
     <MESSAGE value="formating" />
-    <option name="LAST_COMMIT_MESSAGE" value="formating" />
+    <MESSAGE value="step 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="step 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581982043372">
@@ -195,10 +199,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="496" y="45" key="#modinv/0.0.1536.834@0.0.1536.834" timestamp="1580785153224" />
-    <state x="806" y="13" key="CommitChangelistDialog2" timestamp="1580708204139">
+    <state x="806" y="13" key="CommitChangelistDialog2" timestamp="1581982589866">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="806" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580708204139" />
+    <state x="806" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1581982589866" />
     <state x="830" y="108" width="638" height="487" key="FileChooserDialogImpl" timestamp="1580603642782">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
