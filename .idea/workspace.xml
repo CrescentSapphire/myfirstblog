@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f355076b-880a-4a57-b027-390730509392" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/polls/static/polls/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/admin/base_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -170,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581982591222</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="step 6">
+      <created>1581986432001</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581986432001</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,7 +186,8 @@
     <MESSAGE value="css fix" />
     <MESSAGE value="formating" />
     <MESSAGE value="step 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="step 2" />
+    <MESSAGE value="step 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="step 6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581982043372">
@@ -199,10 +202,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="496" y="45" key="#modinv/0.0.1536.834@0.0.1536.834" timestamp="1580785153224" />
-    <state x="806" y="13" key="CommitChangelistDialog2" timestamp="1581982589866">
+    <state x="806" y="13" key="CommitChangelistDialog2" timestamp="1581986430350">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="806" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1581982589866" />
+    <state x="806" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1581986430350" />
     <state x="830" y="108" width="638" height="487" key="FileChooserDialogImpl" timestamp="1580603642782">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
